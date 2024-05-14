@@ -1,4 +1,4 @@
 # Title
 title: My GitHub Pages Site
 description: A site showcasing my projects.
-remote_theme: pages-themes/minimal
+theme: jekyll-theme-minimal

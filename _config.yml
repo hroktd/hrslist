@@ -1,3 +1,4 @@
 # Title
-name: Sample Template
-theme: minima
+title: My GitHub Pages Site
+description: A site showcasing my projects.
+remote_theme: pages-themes/minimal

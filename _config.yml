@@ -1,5 +1,6 @@
 # Title
+url: https://hroktd.github.io
+baseurl: /hrslist/  
 title: My GitHub Pages Site
 description: A site showcasing my projects.
 theme: jekyll-theme-tactile
-baseurl: /hrslist.github.io

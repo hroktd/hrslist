@@ -2,3 +2,4 @@
 title: My GitHub Pages Site
 description: A site showcasing my projects.
 theme: jekyll-theme-tactile
+baseurl: /hrslist.github.io

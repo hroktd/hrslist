@@ -11,6 +11,5 @@
 
 
   {% for post in site.posts %}
-  * [{{ post.title }}]({{ site.baseurl }}{{ post.url }}")
-    * {{ post.date | date: "%B %d, %Y" }}
+  * [{{ post.title }}]({{ post.url | absolute_url }}")  {{ post.date | date: "%B %d, %Y" }}
   {% endfor %}
